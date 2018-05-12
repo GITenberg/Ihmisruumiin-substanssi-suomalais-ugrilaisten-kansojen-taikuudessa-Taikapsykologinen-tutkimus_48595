@@ -1,4 +1,8 @@
 _repo: Ihmisruumiin-substanssi-suomalais-ugrilaisten-kansojen-taikuudessa-Taikapsykologinen-tutkimus_48595
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hämäläinen, Albert
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44873
     wikipedia: http://fi.wikipedia.org/wiki/Albert_H%C3%A4m%C3%A4l%C3%A4inen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48595#Ihmisruumiin-substanssi-suomalais-ugrilaisten-kansojen-taikuudessa-Taikapsykologinen-tutkimus
 gutenberg_issued: '2015-03-28'
 gutenberg_type: Text
 identifiers:
